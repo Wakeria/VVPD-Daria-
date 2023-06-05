@@ -27,7 +27,7 @@ def calculate_perimeter():
     for side in sides:
         perimeter += side
     return perimeter
-
+#.
 
 def is_valid_triangle():
     for side in sides:
